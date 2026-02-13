@@ -9,7 +9,7 @@ Script Purpose:
     'silver', and 'gold'.
     
 WARNING:
-    Running this script will drop the entire 'MyDatabase' database if it exists, 
+    Running this script will drop the entire 'DataWarehouseProject' database if it exists, 
     permanently deleting all data within it. Proceed with caution and ensure you 
     have proper backups before executing this script.
 */
